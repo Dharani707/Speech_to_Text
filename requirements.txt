@@ -1,0 +1,6 @@
+python==3.9
+transformers
+torch
+faster-whisper
+wave
+pyaudio 
